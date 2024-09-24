@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Pridi:wght@200;300;400;500;600;700&family=Sofadi+One&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background: url('./assets/teamwork.jpg');
+  background-size: cover; */
+  /* background-color: #000; */
+  color: #000;
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  /* font-family: "Sofadi One", system-ui;
+  font-weight: 400;
+  font-style: normal; */
+  font-family: "Pridi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
